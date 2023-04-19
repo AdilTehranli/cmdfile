@@ -1,0 +1,6 @@
+1) cd desktop
+2) mkdir cmdfile(any name can be written)
+3) cd cmdfile
+4) dotnet new console
+5) dotnet run cmdfile or (dotnet run)
+ 
